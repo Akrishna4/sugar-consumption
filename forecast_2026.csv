@@ -1,0 +1,13 @@
+Month_Start,Month,Season,is_crushing_season,Forecast (LTR),Lower 10th (LTR),Upper 90th (LTR)
+2026-01-01,1,Crushing (Oct–Apr),1,2095.0,86.5,8245.0
+2026-02-01,2,Crushing (Oct–Apr),1,2095.0,86.5,8245.0
+2026-03-01,3,Crushing (Oct–Apr),1,2095.0,86.5,8245.0
+2026-04-01,4,Crushing (Oct–Apr),1,2095.0,86.5,8245.0
+2026-05-01,5,Off-season (May–Sep),0,207.5,5.3,3587.4
+2026-06-01,6,Off-season (May–Sep),0,207.5,5.3,3587.4
+2026-07-01,7,Off-season (May–Sep),0,207.5,5.3,3587.4
+2026-08-01,8,Off-season (May–Sep),0,207.5,5.3,3587.4
+2026-09-01,9,Off-season (May–Sep),0,207.5,5.3,3587.4
+2026-10-01,10,Crushing (Oct–Apr),1,2095.0,86.5,8245.0
+2026-11-01,11,Crushing (Oct–Apr),1,2095.0,86.5,8245.0
+2026-12-01,12,Crushing (Oct–Apr),1,2095.0,86.5,8245.0
